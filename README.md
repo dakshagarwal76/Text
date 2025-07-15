@@ -26,7 +26,6 @@
 
 ## 🎥 Preview
 
-> *(Optional: Add a screenshot or GIF preview here)*  
 > ![App Screenshot](./screenshot.png)
 
 ---
