@@ -43,7 +43,7 @@
 
 ## 🚀 Live Demo
 
-🌐 [Check it out on GitHub Pages](https://your-live-link.com) *(if deployed)*
+🌐 (https://text-omega-two.vercel.app/)
 
 ---
 
